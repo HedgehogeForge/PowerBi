@@ -24,18 +24,18 @@ Data analysis is a powerful tool that allows businesses to better understand the
 ## Roles
 You're right! Each of these roles is like a superhero with unique powers, working together to understand and use data effectively. Here's a breakdown of their responsibilities:
 
-* **Business Analyst:** This person is like the detective who understands the business inside and out. They know what questions to ask the data to solve business problems and find opportunities. They're also great communicators, sharing their findings with decision-makers. ️‍♀️
+* **Business Analyst:** This person is like the detective who understands the business inside and out. They know what questions to ask the data to solve business problems and find opportunities. They're also great communicators, sharing their findings with decision-makers.
 
 * **Data Analyst:** Think of them as the explorer who dives deep into the data, uncovering hidden patterns and insights. They clean, organize, and analyze data to extract valuable information that can help the business make better decisions. ‍
 
 * **Data Engineer:** They're the architects who build and maintain the data infrastructure, making sure the data is readily available, reliable, and in the right format for the analysts and scientists to use. ️
 
-* **Data Scientist:** This is the magician who uses advanced techniques to predict the future. They develop models and algorithms that can analyze massive amounts of data and make accurate predictions about customer behavior, market trends, and more. ‍♂️
+* **Data Scientist:** This is the magician who uses advanced techniques to predict the future. They develop models and algorithms that can analyze massive amounts of data and make accurate predictions about customer behavior, market trends, and more.♂️
 
-* **Database Administrator:** They're the guardians who protect the data, ensuring it's secure and always accessible. They manage the databases, guarantee their integrity and security, and optimize their performance. ‍♀️
+* **Database Administrator:** They're the guardians who protect the data, ensuring it's secure and always accessible. They manage the databases, guarantee their integrity and security, and optimize their performance.
 
 **In short:**
 
-Each of these roles is crucial for successful data analysis projects. Together, they form a powerful team that can transform raw data into valuable insights, driving growth and innovation in a company. ‍♀️‍♂️
+Each of these roles is crucial for successful data analysis projects. Together, they form a powerful team that can transform raw data into valuable insights, driving growth and innovation in a company.
 
 

@@ -97,7 +97,7 @@ Together, semantic models and visualizations allow you to create interactive and
 
 Would you like to learn more about how to create semantic models or visualizations in Power BI?
 
-##Open Power BI
+## Open Power BI
 
 https://app.powerbi.com/singleSignOn?pbi_source=learn-header-power-bi&ru=https%3A%2F%2Fapp.powerbi.com%2F%3Fpbi_source%3Dlearn-header-power-bi%26noSignUpCheck%3D1
 

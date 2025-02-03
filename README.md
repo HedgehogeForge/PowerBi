@@ -86,3 +86,13 @@ The Power BI service also has some extra features:
 
 Power BI is a powerful tool that can help you turn your data into actionable insights. By following this workflow, you can create reports that are both informative and engaging.
 
+### Semantic and Visualizations
+You're absolutely right! In Power BI, semantic models and visualizations are the core building blocks. Think of them as the ingredients and the presentation of a delicious dish.
+
+**Semantic models:** Imagine you have a box full of ingredients (data). A semantic model is like a recipe that tells you how to combine those ingredients to create something tasty. It organizes and defines the data so that Power BI understands what it is and how it relates to each other.
+
+**Visualizations:** Once you have your dish prepared (semantic model), visualizations are how you present it. They're like the photos in a cookbook that show you what the finished dish looks like. Visualizations can be charts, tables, maps, etc., and help you understand the data at a glance.
+
+Together, semantic models and visualizations allow you to create interactive and easy-to-understand reports that help you make better decisions.
+
+Would you like to learn more about how to create semantic models or visualizations in Power BI?

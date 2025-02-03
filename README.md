@@ -53,3 +53,12 @@ Here's a breakdown of the tasks a data analyst typically handles, keeping it sim
 * **Administration:** This involves managing the data and the tools used for analysis. It's like a librarian keeping the books organized. The analyst might also be responsible for data security, ensuring that the data is accurate and reliable, and documenting the analysis process.
 
 These tasks often overlap and are iterative, meaning an analyst might go back and forth between them as needed
+
+## Power BI
+Power BI is a powerful tool for creating reports and analyzing data. It has three main components:
+
+* **Power BI Desktop**: This is a free desktop application that you can use to connect to your data, create reports, and design visualizations. It's like your personal workshop for building reports.
+
+* **Power BI Service**: This is a cloud-based platform where you can publish and share your reports with others. It's like a central hub where everyone can access and collaborate on reports.
+
+* **Power BI Mobile**: This is a mobile app that lets you view and interact with your reports on the go. It's like having your reports in your pocket, so you can access them anytime, anywhere.

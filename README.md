@@ -38,4 +38,18 @@ You're right! Each of these roles is like a superhero with unique powers, workin
 
 Each of these roles is crucial for successful data analysis projects. Together, they form a powerful team that can transform raw data into valuable insights, driving growth and innovation in a company.
 
+##Tasks
 
+Here's a breakdown of the tasks a data analyst typically handles, keeping it simple and clear:
+
+* **Preparation:**  This is like getting all your ingredients ready before you start cooking. A data analyst gathers the data from different sources, cleans it up (like removing duplicates or errors), and makes sure it's in a format that can be easily used.
+
+* **Modeling:** Here, the analyst organizes the data into a structure that makes sense. It's like creating a blueprint for a house. They might create tables, relationships, and categories to make the data easier to understand and analyze.
+
+* **Visualization:** This is where the analyst turns the data into pictures, like charts and graphs. It's like an artist creating a painting. Visualizations make it easier to see patterns, trends, and insights in the data.
+
+* **Analysis:** Now, the analyst starts digging into the data, looking for answers to questions. It's like a detective solving a case. They might use statistical methods, compare different groups, or identify trends to draw conclusions.
+
+* **Administration:** This involves managing the data and the tools used for analysis. It's like a librarian keeping the books organized. The analyst might also be responsible for data security, ensuring that the data is accurate and reliable, and documenting the analysis process.
+
+These tasks often overlap and are iterative, meaning an analyst might go back and forth between them as needed

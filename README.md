@@ -1,4 +1,4 @@
-# Data Analisys and PowerBi
+# Data Analisys and Power BI
 [ Power Bi researchs and trainings ] 
 
 Data analysis is like having a superpower to understand the world around us. Imagine you're a detective looking for clues in a bunch of numbers and data to solve a mystery. That's basically data analysis! ️‍

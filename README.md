@@ -38,7 +38,7 @@ You're right! Each of these roles is like a superhero with unique powers, workin
 
 Each of these roles is crucial for successful data analysis projects. Together, they form a powerful team that can transform raw data into valuable insights, driving growth and innovation in a company.
 
-##Tasks
+## Tasks
 
 Here's a breakdown of the tasks a data analyst typically handles, keeping it simple and clear:
 

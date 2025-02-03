@@ -30,7 +30,7 @@ You're right! Each of these roles is like a superhero with unique powers, workin
 
 * **Data Engineer:** They're the architects who build and maintain the data infrastructure, making sure the data is readily available, reliable, and in the right format for the analysts and scientists to use. ️
 
-* **Data Scientist:** This is the magician who uses advanced techniques to predict the future. They develop models and algorithms that can analyze massive amounts of data and make accurate predictions about customer behavior, market trends, and more.♂️
+* **Data Scientist:** This is the magician who uses advanced techniques to predict the future. They develop models and algorithms that can analyze massive amounts of data and make accurate predictions about customer behavior, market trends, and more.
 
 * **Database Administrator:** They're the guardians who protect the data, ensuring it's secure and always accessible. They manage the databases, guarantee their integrity and security, and optimize their performance.
 
